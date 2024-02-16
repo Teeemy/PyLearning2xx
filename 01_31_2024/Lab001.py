@@ -3,7 +3,7 @@ print("Mariam")
 age = 45
 print(type(age))
 # type function will give the name of the variable type
-# is used for comment out
+# #is used for comment out
 # variables names are also called identifiers
 # each variable should be given a unique name
 
@@ -13,6 +13,10 @@ print(type(age))
 # float (have decimal) and it is written as pi =
 # boolean (true or false)
 # Sequence are strings and are written name = "mariam"..name2 = 'mariam'..char='C'
+
+# Strings are sequences of characters. In Python, you can define strings using either
+# single quotes (''), double quotes ("") or triple quotes (''' or """) for multiline
+# strings.
 
 # import keyword
 # print(*values, sep=" ", end="\n", file=None, flush=False)` on docs.python.org

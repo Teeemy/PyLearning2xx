@@ -1,8 +1,8 @@
 
 # Sequence -> List
-# []
-#Collection of items
-# it can be of diff data types
+# A list in Python is a collection of items which can be of t can be of diff data types
+# The items are enclosed within brackets [] and separated by commas.
+
 my_shopping_list = ["Butter Milk", "Oranges", "Apple", "Flowers"]
 print(len(my_shopping_list))
 print(my_shopping_list[0])
