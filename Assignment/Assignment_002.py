@@ -1,20 +1,19 @@
 # = and ==
 # = means assigning. it does not return value
-a = 10
-b = 12
 
 # == is  a comparison operator which compares the value
 # return a boolean
+a = 10
+b = 12
 result = (a == b)
 print(result)
-
 # ** is a power operator The double star operator, denoted by (**),
 # is an arithmetic operator in Python often used for exponentiation.
 # In other words, it's a power operator that raises
 # the number on its left to the power of the number on its right.
 x = 2 ** 3
-y = 5 ** 7
-# print(x)
+y = 2 ** 7
+print(x)
 print(y)
 
 # ^ is a bitwise XOR
