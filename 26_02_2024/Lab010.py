@@ -1,5 +1,5 @@
 # INHERITANCE
-# 1 SINGLE Inheritange
+# 1 SINGLE Inheritance
 
 class Father:
     gold = 5 #property
